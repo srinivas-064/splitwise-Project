@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/svs/Desktop/SplitWise",
+      "program": "/Users/svs/Desktop/SplitWise/build/Debug/outDebug"
+    }
+  ]
+}
